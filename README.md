@@ -8,7 +8,7 @@ This project was made to fulfill *Arsitektur Perangkat Lunak* B assignment. Impl
 
 # Usage
 Install all the requirements
-> pip install requirements.txt
+> pip install -r requirements.txt
 
 Then run this to start the app
 > uvicorn covid_tracker.main:app --reload
